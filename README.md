@@ -3,3 +3,4 @@ Analysis of information collected through surveys made by the association "Girl 
 
 Code is in GMA.ipynb file
 Report is in PJB_GMA file
+The Excel files contain the data collected from the surveys
